@@ -85,6 +85,7 @@ GEM
     ffi (1.15.0)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
+    hirb (0.7.3)
     i18n (1.8.9)
       concurrent-ruby (~> 1.0)
     listen (3.4.1)
@@ -194,6 +195,7 @@ DEPENDENCIES
   database_cleaner
   factory_bot_rails (~> 4.0)
   faker
+  hirb
   listen (~> 3.3)
   pg (~> 1.1)
   puma (~> 5.0)
