@@ -1,2 +1,1 @@
-# schoolook-api
-Rails API for web-dev resources
+TODO user model, webdev resources model, auth, routing, tests
